@@ -18,7 +18,7 @@ environment:
 
 dependencies:
   firebase_auth:
-  cloud_firestore:
+  google_sign_in:
   flutter:
     sdk: flutter
 
